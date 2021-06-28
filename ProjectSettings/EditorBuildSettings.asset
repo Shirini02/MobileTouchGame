@@ -15,10 +15,10 @@ EditorBuildSettings:
     path: Assets/Assets/Scenes/EndScene.unity
     guid: 965a78de30c573a40a331010836c1688
   - enabled: 1
-    path: Assets/Scenes/Assets/Scenes/TouchSample.unity
+    path: Assets/Scenes/TouchSample.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Assets/Scenes/TouchGame.unity
+    path: Assets/Scenes/TouchGame.unity
     guid: 2c26df7ce8f112d49bda1488840ffd3c
   - enabled: 1
     path: Assets/Scenes/Assets/Scenes/EndGame.unity
